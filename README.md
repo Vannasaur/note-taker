@@ -80,3 +80,5 @@ N/A
 Please refer to my profile for additional projects: https://github.com/Vannasaur
 
 If you have any questions please email me at: vannaluciano@gmail.com
+
+![secure-journey-50896-ba6ca41ff855 herokuapp com_notes (1)](https://github.com/Vannasaur/note-taker/assets/141793843/86f3ad14-666c-4c88-817b-9fbabdca46e1)

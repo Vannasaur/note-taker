@@ -54,6 +54,8 @@ If you would like to look into your previous notes, just click on the note and i
 
 All previously saved notes will be saved until manually deleted. To delete a note, click on the red trashcan button located next to the saved note. 
 
+Link to deployed application: https://secure-journey-50896-ba6ca41ff855.herokuapp.com/
+
 ## Credits
 
 Note Taker Starter Code from github user: Xandromus in Repository: miniature-eureka. See below for link to repository: https://github.com/coding-boot-camp/miniature-eureka

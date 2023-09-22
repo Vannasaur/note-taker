@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-Note Taker allows you to write, save and delete notes. This application uses an Express.js back-end and saves and retrieves note data from a JSON file. This application's front end was already created and provided as starter code. This entire application is deployed through Heroku. Please see User Story and Acceptance Criteria below:
+Note Taker allows you to write, save and delete notes. This application uses an Express.js back-end and saves and retrieves note data from a JSON file. This application's front-end was already created and provided as starter code. This entire application is deployed through Heroku. Please see User Story and Acceptance Criteria below:
 
 User Story: 
 
